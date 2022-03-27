@@ -16,11 +16,11 @@ public class exercise7 {
         else if((num1 > num3) && (num3 > num2)) {
             JOptionPane.showMessageDialog(null, "order: " + num1 + "-" + num3 + "-" + num2);
         }
-        else if((num2 > num1) && (num1 > num3)){1
+        else if((num2 > num1) && (num1 > num3)){
             JOptionPane.showMessageDialog(null, "order: " + num2 + "-" + num1 + "-" + num3);
         }
         else if((num2 > num3) && (num3 > num1)) {
-            JOptionPane.showMessageDialog(null, "order: " + num2 + "-" + num3 + "-" + num1;
+            JOptionPane.showMessageDialog(null, "order: " + num2 + "-" + num3 + "-" + num1);
         }
         else if((num3 > num1) && (num1 > num2)) {
             JOptionPane.showMessageDialog(null, "order: " + num3 + "-" + num1 + "-" + num2);
